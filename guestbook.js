@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://us-south.functions.cloud.ibm.com/api/v1/namespaces/d8d00483-5caa-417e-a510-635f0a286b17/actions/guestbook/';
+const apiUrl = 'https://us-south.functions.cloud.ibm.com/api/v1/namespaces/d8d00483-5caa-417e-a510-635f0a286b17/actions/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
